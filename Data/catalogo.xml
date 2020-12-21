@@ -1,0 +1,79 @@
+<CATALOGO>
+    <MODELO>
+        <IMAGEN1>Images/Modelos/audir8.jpg</IMAGEN1>
+        <ANCHO1>300</ANCHO1>
+        <IMAGEN2>Images/Logos/audilogo.png</IMAGEN2>
+        <ANCHO2>50</ANCHO2>
+        <NOMBREMARCA>Audi</NOMBREMARCA>
+        <NOMBREMODELO>R8</NOMBREMODELO>
+        <PRECIO>168.500 €</PRECIO>
+        <MOTOR>V10</MOTOR>
+        <ANO>2015</ANO>
+    </MODELO>
+    <MODELO>
+        <IMAGEN1>Images/Modelos/audirs3.jpg</IMAGEN1>
+        <ANCHO1>300</ANCHO1>
+        <IMAGEN2>Images/Logos/audilogo.png</IMAGEN2>
+        <ANCHO2>50</ANCHO2>
+        <NOMBREMARCA>Audi</NOMBREMARCA>
+        <NOMBREMODELO>RS3 Sportback</NOMBREMODELO>
+        <PRECIO>52.990 €</PRECIO>
+        <MOTOR>2.5 TFSI</MOTOR>
+        <ANO>2019</ANO>
+    </MODELO>
+    <MODELO>
+        <IMAGEN1>Images/Modelos/astonmartinrapide.jpg</IMAGEN1>
+        <ANCHO1>300</ANCHO1>
+        <IMAGEN2>Images/Logos/astonmartinlogo.png</IMAGEN2>
+        <ANCHO2>50</ANCHO2>
+        <NOMBREMARCA>Aston Martin</NOMBREMARCA>
+        <NOMBREMODELO>Rapide</NOMBREMODELO>
+        <PRECIO>228.781 €</PRECIO>
+        <MOTOR>V12</MOTOR>
+        <ANO>2019</ANO>
+    </MODELO>
+    <MODELO>
+        <IMAGEN1>Images/Modelos/bmwm3.jpg</IMAGEN1>
+        <ANCHO1>300</ANCHO1>
+        <IMAGEN2>Images/Logos/bmwlogo.png</IMAGEN2>
+        <ANCHO2>50</ANCHO2>
+        <NOMBREMARCA>BMW</NOMBREMARCA>
+        <NOMBREMODELO>M3</NOMBREMODELO>
+        <PRECIO>89.950 €</PRECIO>
+        <MOTOR>TwinPower Turbo M</MOTOR>
+        <ANO>2018</ANO>
+    </MODELO>
+    <MODELO>
+        <IMAGEN1>Images/Modelos/ferrarif8tributo.jpg</IMAGEN1>
+        <ANCHO1>300</ANCHO1>
+        <IMAGEN2>Images/Logos/ferrarilogo.png</IMAGEN2>
+        <ANCHO2>50</ANCHO2>
+        <NOMBREMARCA>Ferrari</NOMBREMARCA>
+        <NOMBREMODELO>F8 Tributo</NOMBREMODELO>
+        <PRECIO>238.071 €</PRECIO>
+        <MOTOR>V8</MOTOR>
+        <ANO>2021</ANO>
+    </MODELO>
+    <MODELO>
+        <IMAGEN1>Images/Modelos/ferrariportofino.jpg</IMAGEN1>
+        <ANCHO1>300</ANCHO1>
+        <IMAGEN2>Images/Logos/ferrarilogo.png</IMAGEN2>
+        <ANCHO2>50</ANCHO2>
+        <NOMBREMARCA>Ferrari</NOMBREMARCA>
+        <NOMBREMODELO>Portofino</NOMBREMODELO>
+        <PRECIO>219.895 €</PRECIO>
+        <MOTOR>V8</MOTOR>
+        <ANO>2018</ANO>
+    </MODELO>
+    <MODELO>
+        <IMAGEN1>Images/Modelos/ferrarilaferrari.jpg</IMAGEN1>
+        <ANCHO1>300</ANCHO1>
+        <IMAGEN2>Images/Logos/ferrarilogo.png</IMAGEN2>
+        <ANCHO2>50</ANCHO2>
+        <NOMBREMARCA>Ferrari</NOMBREMARCA>
+        <NOMBREMODELO>La Ferrari</NOMBREMODELO>
+        <PRECIO>1.300.000 €</PRECIO>
+        <MOTOR>V12</MOTOR>
+        <ANO>2013</ANO>
+    </MODELO>
+</CATALOGO>

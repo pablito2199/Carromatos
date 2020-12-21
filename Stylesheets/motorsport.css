@@ -1,0 +1,38 @@
+section {
+    font-family: "Modern No. 20";
+    font-size: 25px;
+}
+
+#desplegable {
+    color: white;
+    background-color: #2A2789;
+    border: 2px solid white;
+    padding-left: 1%;
+    padding-bottom: 1%;
+    width: 10%;
+    height: 100px;
+    margin-top: 1%;
+}
+
+.contenedor {
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+}
+
+#directo {
+    position: relative;
+    font-size: 20px;
+    border: 2px solid white;
+    text-align: center;
+    border-radius: 15px;
+    width: 22%;
+    left: 415px;
+    bottom: 60px;
+}
+
+#noticia {
+    width: 75%;
+    margin-left: 12%;
+    text-align: center;
+}

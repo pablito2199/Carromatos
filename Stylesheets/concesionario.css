@@ -1,0 +1,51 @@
+.concesionario {
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+}
+
+.columna {
+    width: 50%;
+}
+
+.texto_encimai {
+    position: relative;
+    bottom: 65px;
+    left: 55px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    font-size: 25px;
+    color: #00FF2B;
+    border: 3px solid #00FF2B;
+    border-radius: 10px;
+    width: 16%;
+    text-align: center;
+}
+
+.texto_encimad {
+    position: relative;
+    bottom: 65px;
+    left: 495px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    font-size: 25px;
+    color: #00FF2B;
+    border: 3px solid #00FF2B;
+    border-radius: 10px;
+    width: 19%;
+    text-align: center;
+}
+
+@media screen and (max-width: 800px) {
+    .columna {
+        flex: 50%;
+        max-width: 50%;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    .columna {
+        flex: 100%;
+        max-width: 100%;
+    }
+}

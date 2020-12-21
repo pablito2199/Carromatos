@@ -1,0 +1,49 @@
+.contenedor {
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    color: white;
+    font-family: "Modern No. 20";
+    font-size: 25px;
+}
+
+.columna {
+    width: 50%;
+    text-align: justify;
+}
+
+#directo {
+    position: relative;
+    border: 2px solid white;
+    text-align: center;
+    border-radius: 15px;
+    width: 50%;
+    left: 290px;
+    bottom: 78px;
+}
+
+#verde {
+    position: relative;
+    color: #467E3D;
+    border: 2px solid #467E3D;
+    padding: 1%;
+    text-align: center;
+    border-radius: 10px;
+    width: 30%;
+    left: 65px;
+    bottom: 850px;
+}
+
+@media screen and (max-width: 800px) {
+    .columna {
+        flex: 50%;
+        max-width: 50%;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    .columna {
+        flex: 100%;
+        max-width: 100%;
+    }
+}

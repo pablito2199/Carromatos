@@ -1,0 +1,29 @@
+table {
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    color: #707070;
+    font-size: 20px;
+}
+
+#bandera {
+    opacity: 0.66;
+}
+
+#textoEncima {
+    position: relative;
+    bottom: 107px;
+    font-family: "Corbel";
+    font-weight: bold;
+    font-size: 50px;
+    color: white;
+    opacity: 0.8;
+}
+
+th {
+    padding-left: 40px;
+    color: white;
+}
+
+td {
+    padding-left: 40px;
+}

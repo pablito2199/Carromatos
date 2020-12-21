@@ -1,0 +1,34 @@
+#imagenes {
+    color: white;
+}
+
+.contenedor p {
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    font-size: 18px;
+    text-align: center;
+}
+
+.contenedor {
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+}
+
+.contenedor img {
+    transition: 0.2s ease-in-out;
+}
+
+.contenedor img {
+    margin-top: 5%;
+}
+
+.filtrado {
+    color: white;
+    width: 50%;
+    border: 2px solid white;
+    background-color: #2A2789;
+    width: 200px;
+    padding: 2%;
+}

@@ -1,0 +1,42 @@
+.contenedor p {
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    font-size: 20px;
+    text-align: center;
+}
+
+.contenedor {
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+}
+
+.contenedor img {
+    width: 105%;
+    transition: 0.2s ease-in-out;
+    border-radius: 4px;
+    padding-left: 5px;
+}
+
+.contenedor img:hover {
+    transform: scale(1.05);
+}
+
+.columna {
+    width: 50%;
+}
+
+@media screen and (max-width: 800px) {
+    .columna {
+        flex: 50%;
+        max-width: 50%;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    .column {
+        flex: 100%;
+        max-width: 100%;
+    }
+}

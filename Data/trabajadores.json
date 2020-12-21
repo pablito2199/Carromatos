@@ -1,0 +1,7 @@
+{
+    "Trabajadores": [
+        { "Imagen": "Images/Trabajadores/tarrio.png", "Nombre": "Pablo Tarrío Otero", "Edad": "19", "Nacimiento": "Lugo", "Cualidad": "Antiguo piloto de la F1, campeón del mundo en dos ocasiones." },
+        { "Imagen": "Images/Trabajadores/lobato.jpg", "Nombre": "Antonio Lobato Porras", "Edad": "55", "Nacimiento": "Oviedo", "Cualidad": "Mejor comentarista del mundo del motor de habla hispana." },
+        { "Imagen": "Images/Trabajadores/rosaleny.jpeg", "Nombre": "Cristóbal Rosaleny Cerveró", "Edad": "34", "Nacimiento": "Valencia", "Cualidad": "Técnico especialista en cualidades deportivas del motor." }
+    ]
+}

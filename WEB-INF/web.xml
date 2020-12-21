@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE web-app
+PUBLIC "-//Sun Microsystems, Inc.//DTD Web Application 2.3//EN"
+"http://java.sun.com/j2ee/dtds/web-app_2_3.dtd">
+
+<web-app>
+
+<servlet>
+<servlet-name>inicioSesion</servlet-name>
+<servlet-class>project.inicioSesion</servlet-class>
+</servlet>
+
+ <servlet-mapping>
+ <servlet-name>inicioSesion</servlet-name>
+ <url-pattern>/inicioSesion</url-pattern>
+ </servlet-mapping>
+
+<servlet>
+<servlet-name>tienda</servlet-name>
+<servlet-class>project.tienda</servlet-class>
+</servlet>
+
+ <servlet-mapping>
+ <servlet-name>tienda</servlet-name>
+ <url-pattern>/tienda</url-pattern>
+ </servlet-mapping>
+
+<servlet>
+<servlet-name>carrito</servlet-name>
+<servlet-class>project.carrito</servlet-class>
+</servlet>
+
+ <servlet-mapping>
+ <servlet-name>carrito</servlet-name>
+ <url-pattern>/carrito</url-pattern>
+ </servlet-mapping>
+
+<servlet>
+<servlet-name>pago</servlet-name>
+<servlet-class>project.pago</servlet-class>
+</servlet>
+
+ <servlet-mapping>
+ <servlet-name>pago</servlet-name>
+ <url-pattern>/pago</url-pattern>
+ </servlet-mapping>
+ 
+ <context-param>
+    <param-name>email</param-name>
+    <param-value>carromatos@gmail.com</param-value>
+</context-param>
+<context-param>
+    <param-name>telefono</param-name>
+    <param-value>+34 678542221</param-value>
+</context-param>
+
+</web-app>
